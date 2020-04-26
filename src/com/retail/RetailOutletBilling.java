@@ -6,7 +6,6 @@ import com.retail.pojo.RetailBill;
 import com.retail.pojo.product.Product;
 
 import java.util.Date;
-import java.util.List;
 
 public class RetailOutletBilling implements Billing {
 
